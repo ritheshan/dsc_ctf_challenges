@@ -7,7 +7,7 @@ Here’s your unique Markdown write-up based on your approach. Let me know if yo
 ## 🏆 Challenge Overview  
 
 **Category:** Misc (100 points)  
-**Author:** theinit01  
+
 **Description:**  
 We are presented with a seemingly **impossible-to-pass** login system that enforces conflicting conditions:  
 
