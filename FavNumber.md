@@ -74,7 +74,7 @@ binary_search_ctf()
 ### Final Flag 🏳️‍🌟💪
 After correctly identifying the number, we received the flag:
 ```
-dscctf{your_smart_guessing_skills}
+dscctf{y0u_4r3_4_sm4rt_arent_you}
 ```
 
 ---
