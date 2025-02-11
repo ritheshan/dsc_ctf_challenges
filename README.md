@@ -2,7 +2,7 @@
 
 Welcome to the **DSC-CTF 2025 Write-ups** repository! This repository contains detailed walkthroughs of the challenges from the **CTF Challenge 2025**, conducted by the **Developer Student Club (DSC), JSS STU, Mysore**.  
 
-## 🏴‍☠️  Team: Hacktivators  
+##  🎭 Team: Hacktivators  
 
 Our team, **Hacktivators**, participated in this competition and documented our approaches, methodologies, and lessons learned. This repository serves as a knowledge base for fellow CTF enthusiasts. 🚀  
 
