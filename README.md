@@ -12,11 +12,11 @@ Our team, **Hacktivators**, participated in this competition and documented our 
 
 ### 🔢 Maths Challenges  
 - [Maths2 Challenge](/Maths2.md )  
-- [Conditions Challenge](dsc_ctf_challenges/Conditions.md)  
-- [Favorite Number Challenge](dsc_ctf_challenges/FavNumber.md)  
+- [Conditions Challenge](/Conditions.md)  
+- [Favorite Number Challenge](/FavNumber.md)  
 
 ### 🐧 Linux Exploitation  
-- [Linux Prison 3](dsc_ctf_challenges/LinuxPrison3.md)  
+- [Linux Prison 3](/LinuxPrison3.md)  
 
 ### 🕵️‍♂️ Web Exploitation (Upcoming)  
 - More challenges coming soon!  
