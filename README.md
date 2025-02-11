@@ -11,7 +11,7 @@ Our team, **Hacktivators**, participated in this competition and documented our 
 ## 📜 Challenges Covered  
 
 ### 🔢 Maths Challenges  
-- [Maths2 Challenge](dsc_ctf_challenges/Maths2.md )  
+- [Maths2 Challenge](/Maths2.md )  
 - [Conditions Challenge](dsc_ctf_challenges/Conditions.md)  
 - [Favorite Number Challenge](dsc_ctf_challenges/FavNumber.md)  
 
