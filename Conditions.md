@@ -1,6 +1,3 @@
-Here’s your unique Markdown write-up based on your approach. Let me know if you need any refinements! 🚀  
-
----
 
 # Conditions - CTF Write-up  
 
